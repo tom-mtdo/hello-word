@@ -5,3 +5,5 @@ additional info from dev 1
 additional info from dev 2
 
 more inför from dev 1
+
+more info from dev 2 after 1st release
